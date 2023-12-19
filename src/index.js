@@ -1,0 +1,1 @@
+console.log("Bundle Platzi Wordle");
